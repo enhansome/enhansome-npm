@@ -67,7 +67,7 @@
             "last_commit": "2026-08-05T03:17:14Z",
             "owner": "voidcosmos",
             "repo": "npkill",
-            "stars": 9417
+            "stars": 9421
           }
         },
         {
@@ -106,7 +106,7 @@
             "last_commit": "2026-08-08T05:03:04Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 23974
+            "stars": 23976
           }
         },
         {
@@ -193,10 +193,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T11:57:13Z",
+            "last_commit": "2026-08-13T20:21:20Z",
             "owner": "verdaccio",
             "repo": "verdaccio",
-            "stars": 17825
+            "stars": 17824
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2025-07-13T02:08:58Z",
             "owner": "Pana",
             "repo": "nrm",
-            "stars": 3010
+            "stars": 3012
           }
         },
         {
@@ -493,7 +493,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-23T18:55:38Z",
+            "last_commit": "2026-08-13T16:50:30Z",
             "owner": "lirantal",
             "repo": "lockfile-lint",
             "stars": 866
@@ -824,7 +824,7 @@
             "last_commit": "2026-05-12T11:09:42Z",
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41493
+            "stars": 41492
           }
         },
         {
@@ -835,10 +835,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T16:06:03Z",
+            "last_commit": "2026-08-14T15:02:04Z",
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36051
+            "stars": 36072
           }
         },
         {
@@ -849,10 +849,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T21:17:55Z",
+            "last_commit": "2026-08-13T21:22:23Z",
             "owner": "npm",
             "repo": "cli",
-            "stars": 10029
+            "stars": 10034
           }
         }
       ],
@@ -979,7 +979,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:23:32.064Z",
+    "last_updated": "2026-08-14T16:13:35.554Z",
     "original_repository": "sindresorhus/awesome-npm",
     "original_repository_sha": "f758b3a7b3e5ff99707b803da4f1396515061dec",
     "enhanced_repository": "enhansome/enhansome-npm",
