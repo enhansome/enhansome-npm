@@ -14,7 +14,7 @@
             "last_commit": "2020-08-03T14:56:30Z",
             "owner": "max-mapper",
             "repo": "art-of-node",
-            "stars": 9875
+            "stars": 9877
           }
         },
         {
@@ -106,7 +106,7 @@
             "last_commit": "2026-08-08T05:03:04Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 23976
+            "stars": 23977
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-09T07:29:51Z",
             "owner": "release-it",
             "repo": "release-it",
-            "stars": 9026
+            "stars": 9027
           }
         },
         {
@@ -193,10 +193,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T20:21:20Z",
+            "last_commit": "2026-08-15T09:28:30Z",
             "owner": "verdaccio",
             "repo": "verdaccio",
-            "stars": 17824
+            "stars": 17828
           }
         },
         {
@@ -381,7 +381,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-08T12:58:09Z",
+            "last_commit": "2026-08-15T04:28:58Z",
             "owner": "dylang",
             "repo": "npm-check",
             "stars": 6640
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-12T00:09:37Z",
             "owner": "maticzav",
             "repo": "emma-cli",
-            "stars": 1245
+            "stars": 1244
           }
         },
         {
@@ -835,10 +835,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T15:02:04Z",
+            "last_commit": "2026-08-15T15:35:20Z",
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36072
+            "stars": 36089
           }
         },
         {
@@ -852,7 +852,7 @@
             "last_commit": "2026-08-13T21:22:23Z",
             "owner": "npm",
             "repo": "cli",
-            "stars": 10034
+            "stars": 10037
           }
         }
       ],
@@ -979,7 +979,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:13:35.554Z",
+    "last_updated": "2026-08-15T15:43:15.169Z",
     "original_repository": "sindresorhus/awesome-npm",
     "original_repository_sha": "f758b3a7b3e5ff99707b803da4f1396515061dec",
     "enhanced_repository": "enhansome/enhansome-npm",
