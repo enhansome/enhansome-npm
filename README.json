@@ -14,7 +14,7 @@
             "last_commit": "2020-08-03T14:56:30Z",
             "owner": "max-mapper",
             "repo": "art-of-node",
-            "stars": 9877
+            "stars": 9875
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-05T03:17:14Z",
             "owner": "voidcosmos",
             "repo": "npkill",
-            "stars": 9421
+            "stars": 9423
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-09T07:29:51Z",
             "owner": "release-it",
             "repo": "release-it",
-            "stars": 9027
+            "stars": 9028
           }
         },
         {
@@ -193,7 +193,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T09:28:30Z",
+            "last_commit": "2026-08-16T12:01:22Z",
             "owner": "verdaccio",
             "repo": "verdaccio",
             "stars": 17828
@@ -566,7 +566,7 @@
             "last_commit": "2024-05-02T14:34:36Z",
             "owner": "sindresorhus",
             "repo": "generator-nm",
-            "stars": 734
+            "stars": 733
           }
         },
         {
@@ -824,7 +824,7 @@
             "last_commit": "2026-05-12T11:09:42Z",
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41492
+            "stars": 41490
           }
         },
         {
@@ -835,10 +835,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T15:35:20Z",
+            "last_commit": "2026-08-16T13:48:22Z",
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36089
+            "stars": 36107
           }
         },
         {
@@ -979,7 +979,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:43:15.169Z",
+    "last_updated": "2026-08-16T15:44:05.434Z",
     "original_repository": "sindresorhus/awesome-npm",
     "original_repository_sha": "f758b3a7b3e5ff99707b803da4f1396515061dec",
     "enhanced_repository": "enhansome/enhansome-npm",
