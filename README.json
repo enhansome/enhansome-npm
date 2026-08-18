@@ -67,7 +67,7 @@
             "last_commit": "2026-08-05T03:17:14Z",
             "owner": "voidcosmos",
             "repo": "npkill",
-            "stars": 9423
+            "stars": 9424
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-10-31T09:38:35Z",
             "owner": "lukechilds",
             "repo": "zsh-better-npm-completion",
-            "stars": 500
+            "stars": 501
           }
         }
       ],
@@ -103,10 +103,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-08T05:03:04Z",
+            "last_commit": "2026-08-18T14:17:54Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 23977
+            "stars": 23987
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-09T07:29:51Z",
             "owner": "release-it",
             "repo": "release-it",
-            "stars": 9028
+            "stars": 9029
           }
         },
         {
@@ -134,7 +134,7 @@
             "last_commit": "2026-07-30T22:35:40Z",
             "owner": "sindresorhus",
             "repo": "np",
-            "stars": 7711
+            "stars": 7712
           }
         },
         {
@@ -193,10 +193,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T12:01:22Z",
+            "last_commit": "2026-08-18T10:13:20Z",
             "owner": "verdaccio",
             "repo": "verdaccio",
-            "stars": 17828
+            "stars": 17829
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2021-05-10T13:07:29Z",
             "owner": "felixrieseberg",
             "repo": "npm-windows-upgrade",
-            "stars": 2505
+            "stars": 2504
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-12T00:09:37Z",
             "owner": "maticzav",
             "repo": "emma-cli",
-            "stars": 1244
+            "stars": 1245
           }
         },
         {
@@ -454,7 +454,7 @@
             "last_commit": "2025-07-01T14:35:02Z",
             "owner": "rvpanoz",
             "repo": "luna",
-            "stars": 1004
+            "stars": 1005
           }
         },
         {
@@ -824,7 +824,7 @@
             "last_commit": "2026-05-12T11:09:42Z",
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41490
+            "stars": 41487
           }
         },
         {
@@ -835,10 +835,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T13:48:22Z",
+            "last_commit": "2026-08-18T15:54:54Z",
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36107
+            "stars": 36126
           }
         },
         {
@@ -852,7 +852,7 @@
             "last_commit": "2026-08-13T21:22:23Z",
             "owner": "npm",
             "repo": "cli",
-            "stars": 10037
+            "stars": 10045
           }
         }
       ],
@@ -957,7 +957,7 @@
             "last_commit": "2020-08-07T14:31:21Z",
             "owner": "npm",
             "repo": "npm",
-            "stars": 17626
+            "stars": 17624
           }
         },
         {
@@ -979,7 +979,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:44:05.434Z",
+    "last_updated": "2026-08-18T15:56:01.930Z",
     "original_repository": "sindresorhus/awesome-npm",
     "original_repository_sha": "f758b3a7b3e5ff99707b803da4f1396515061dec",
     "enhanced_repository": "enhansome/enhansome-npm",
