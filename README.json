@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-05T03:17:14Z",
                 "owner": "voidcosmos",
                 "repo": "npkill",
-                "stars": 9425
+                "stars": 9423
               }
             },
             {
@@ -111,7 +111,7 @@
                 "last_commit": "2026-08-18T14:17:54Z",
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 23987
+                "stars": 23992
               }
             },
             {
@@ -205,7 +205,7 @@
                 "archived": false,
                 "id": 56333861,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T04:27:42Z",
+                "last_commit": "2026-08-20T11:56:20Z",
                 "owner": "verdaccio",
                 "repo": "verdaccio",
                 "stars": 17831
@@ -898,10 +898,10 @@
             "archived": false,
             "id": 50565430,
             "language": "Rust",
-            "last_commit": "2026-08-19T14:50:38Z",
+            "last_commit": "2026-08-20T15:37:37Z",
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36139
+            "stars": 36146
           }
         },
         {
@@ -916,7 +916,7 @@
             "last_commit": "2026-08-18T22:06:07Z",
             "owner": "npm",
             "repo": "cli",
-            "stars": 10047
+            "stars": 10049
           }
         }
       ],
@@ -960,7 +960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:55:29.679Z",
+    "last_updated": "2026-08-20T15:57:59.087Z",
     "original_repository": "sindresorhus/awesome-npm",
     "original_repository_id": 49596056,
     "original_repository_sha": "f758b3a7b3e5ff99707b803da4f1396515061dec",
