@@ -15,7 +15,7 @@
             "last_commit": "2020-08-03T14:56:30Z",
             "owner": "max-mapper",
             "repo": "art-of-node",
-            "stars": 9875
+            "stars": 9878
           }
         },
         {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-05T03:17:14Z",
                 "owner": "voidcosmos",
                 "repo": "npkill",
-                "stars": 9426
+                "stars": 9425
               }
             },
             {
@@ -126,7 +126,7 @@
                 "last_commit": "2026-08-09T07:29:51Z",
                 "owner": "release-it",
                 "repo": "release-it",
-                "stars": 9031
+                "stars": 9032
               }
             },
             {
@@ -205,10 +205,10 @@
                 "archived": false,
                 "id": 56333861,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T12:28:25Z",
+                "last_commit": "2026-08-23T12:33:00Z",
                 "owner": "verdaccio",
                 "repo": "verdaccio",
-                "stars": 17834
+                "stars": 17835
               }
             },
             {
@@ -886,7 +886,7 @@
             "last_commit": "2026-05-12T11:09:42Z",
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41485
+            "stars": 41486
           }
         },
         {
@@ -898,10 +898,10 @@
             "archived": false,
             "id": 50565430,
             "language": "Rust",
-            "last_commit": "2026-08-22T15:41:11Z",
+            "last_commit": "2026-08-23T15:32:14Z",
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36177
+            "stars": 36186
           }
         },
         {
@@ -916,7 +916,7 @@
             "last_commit": "2026-08-20T20:29:59Z",
             "owner": "npm",
             "repo": "cli",
-            "stars": 10053
+            "stars": 10055
           }
         }
       ],
@@ -960,7 +960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:43:56.216Z",
+    "last_updated": "2026-08-23T15:44:58.633Z",
     "original_repository": "sindresorhus/awesome-npm",
     "original_repository_id": 49596056,
     "original_repository_sha": "f758b3a7b3e5ff99707b803da4f1396515061dec",
