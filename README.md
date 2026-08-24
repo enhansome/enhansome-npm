@@ -66,7 +66,7 @@
 
 ### Publishing
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 23,998 | 🐛 405 | 🌐 JavaScript | 📅 2026-08-22 - Fully automated package publishing.
+* [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,001 | 🐛 405 | 🌐 JavaScript | 📅 2026-08-22 - Fully automated package publishing.
 * [release-it](https://github.com/webpro/release-it) ⭐ 9,034 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-09 - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 * [np](https://github.com/sindresorhus/np) ⭐ 7,712 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-30 - A better `npm publish`.
 * [publish-please](https://github.com/inikulin/publish-please) ⭐ 736 | 🐛 6 | 🌐 JavaScript | 📅 2024-08-24 - Publish packages safely and gracefully.
@@ -75,7 +75,7 @@
 
 ### Registry
 
-* [verdaccio](https://github.com/verdaccio/verdaccio) ⭐ 17,836 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-24 - Lightweight private npm proxy registry.
+* [verdaccio](https://github.com/verdaccio/verdaccio) ⭐ 17,837 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-24 - Lightweight private npm proxy registry.
 * [nrm](https://github.com/Pana/nrm) ⭐ 3,015 | 🐛 32 | 🌐 TypeScript | 📅 2025-07-13 - Registry manager.
 * [npm-register](https://github.com/dickeyxxx/npm-register) ⚠️ Archived - Easy to set up and maintain npm registry and proxy.
 * [npm-name](https://github.com/sindresorhus/npm-name-cli) ⭐ 289 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-15 - Check whether a package name is available on npm.
@@ -93,7 +93,7 @@
 
 ### Other
 
-* [npm-check](https://github.com/dylang/npm-check) ⭐ 6,641 | 🐛 232 | 🌐 JavaScript | 📅 2026-08-22 - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
+* [npm-check](https://github.com/dylang/npm-check) ⭐ 6,642 | 🐛 232 | 🌐 JavaScript | 📅 2026-08-22 - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
 * [npm-run-all](https://github.com/mysticatea/npm-run-all) ⭐ 5,838 | 🐛 114 | 🌐 JavaScript | 📅 2024-08-15 - CLI tool to run multiple npm-scripts in parallel or serial.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
 * [emma-cli](https://github.com/maticzav/emma-cli) ⭐ 1,245 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-12 - Interactive CLI package search utility.
@@ -128,8 +128,8 @@
 ## Clients
 
 * [yarn](https://github.com/yarnpkg/yarn) ⭐ 41,486 | 🐛 2,056 | 🌐 JavaScript | 📅 2026-05-12 - Fast, reliable, and secure dependency management.
-* [pnpm](https://github.com/pnpm/pnpm) ⭐ 36,194 | 🐛 2,503 | 🌐 Rust | 📅 2026-08-24 - Fast, disk space efficient package manager.
-* [npm](https://github.com/npm/cli) ⭐ 10,059 | 🐛 737 | 🌐 JavaScript | 📅 2026-08-20 - The official client.
+* [pnpm](https://github.com/pnpm/pnpm) ⭐ 36,195 | 🐛 2,504 | 🌐 Rust | 📅 2026-08-24 - Fast, disk space efficient package manager.
+* [npm](https://github.com/npm/cli) ⭐ 10,058 | 🐛 737 | 🌐 JavaScript | 📅 2026-08-20 - The official client.
 
 ## Tips
 
