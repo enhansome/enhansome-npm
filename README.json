@@ -15,7 +15,7 @@
             "last_commit": "2020-08-03T14:56:30Z",
             "owner": "max-mapper",
             "repo": "art-of-node",
-            "stars": 9877
+            "stars": 9878
           }
         },
         {
@@ -111,7 +111,7 @@
                 "last_commit": "2026-08-22T11:08:50Z",
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24001
+                "stars": 24003
               }
             },
             {
@@ -530,7 +530,7 @@
                 "last_commit": "2026-08-13T16:50:30Z",
                 "owner": "lirantal",
                 "repo": "lockfile-lint",
-                "stars": 866
+                "stars": 868
               }
             },
             {
@@ -680,7 +680,7 @@
                 "last_commit": "2024-07-25T18:28:26Z",
                 "owner": "sindresorhus",
                 "repo": "npm-home",
-                "stars": 199
+                "stars": 198
               }
             },
             {
@@ -695,7 +695,7 @@
                 "last_commit": "2024-07-21T11:57:59Z",
                 "owner": "sindresorhus",
                 "repo": "gh-home",
-                "stars": 194
+                "stars": 193
               }
             },
             {
@@ -886,7 +886,7 @@
             "last_commit": "2026-05-12T11:09:42Z",
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41486
+            "stars": 41487
           }
         },
         {
@@ -898,10 +898,10 @@
             "archived": false,
             "id": 50565430,
             "language": "Rust",
-            "last_commit": "2026-08-24T15:19:46Z",
+            "last_commit": "2026-08-25T01:14:35Z",
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36195
+            "stars": 36201
           }
         },
         {
@@ -913,10 +913,10 @@
             "archived": false,
             "id": 139910229,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T20:29:59Z",
+            "last_commit": "2026-08-24T23:51:13Z",
             "owner": "npm",
             "repo": "cli",
-            "stars": 10058
+            "stars": 10057
           }
         }
       ],
@@ -960,7 +960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:03:25.615Z",
+    "last_updated": "2026-08-25T05:51:08.963Z",
     "original_repository": "sindresorhus/awesome-npm",
     "original_repository_id": 49596056,
     "original_repository_sha": "f758b3a7b3e5ff99707b803da4f1396515061dec",
