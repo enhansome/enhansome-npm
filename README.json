@@ -111,7 +111,7 @@
                 "last_commit": "2026-08-22T11:08:50Z",
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24003
+                "stars": 24004
               }
             },
             {
@@ -126,7 +126,7 @@
                 "last_commit": "2026-08-09T07:29:51Z",
                 "owner": "release-it",
                 "repo": "release-it",
-                "stars": 9034
+                "stars": 9035
               }
             },
             {
@@ -208,7 +208,7 @@
                 "last_commit": "2026-08-24T11:47:50Z",
                 "owner": "verdaccio",
                 "repo": "verdaccio",
-                "stars": 17837
+                "stars": 17838
               }
             },
             {
@@ -223,7 +223,7 @@
                 "last_commit": "2025-07-13T02:08:58Z",
                 "owner": "Pana",
                 "repo": "nrm",
-                "stars": 3015
+                "stars": 3016
               }
             },
             {
@@ -425,7 +425,7 @@
                 "last_commit": "2024-08-15T05:51:28Z",
                 "owner": "mysticatea",
                 "repo": "npm-run-all",
-                "stars": 5838
+                "stars": 5837
               }
             },
             {
@@ -898,10 +898,10 @@
             "archived": false,
             "id": 50565430,
             "language": "Rust",
-            "last_commit": "2026-08-25T01:14:35Z",
+            "last_commit": "2026-08-25T16:04:10Z",
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36201
+            "stars": 36209
           }
         },
         {
@@ -916,7 +916,7 @@
             "last_commit": "2026-08-24T23:51:13Z",
             "owner": "npm",
             "repo": "cli",
-            "stars": 10057
+            "stars": 10058
           }
         }
       ],
@@ -960,7 +960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:51:08.963Z",
+    "last_updated": "2026-08-25T16:07:05.019Z",
     "original_repository": "sindresorhus/awesome-npm",
     "original_repository_id": 49596056,
     "original_repository_sha": "f758b3a7b3e5ff99707b803da4f1396515061dec",
