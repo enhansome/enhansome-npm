@@ -111,7 +111,7 @@
                 "last_commit": "2026-08-26T21:54:52Z",
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24007
+                "stars": 24010
               }
             },
             {
@@ -126,7 +126,7 @@
                 "last_commit": "2026-08-09T07:29:51Z",
                 "owner": "release-it",
                 "repo": "release-it",
-                "stars": 9038
+                "stars": 9039
               }
             },
             {
@@ -208,7 +208,7 @@
                 "last_commit": "2026-08-27T11:52:32Z",
                 "owner": "verdaccio",
                 "repo": "verdaccio",
-                "stars": 17845
+                "stars": 17846
               }
             },
             {
@@ -898,10 +898,10 @@
             "archived": false,
             "id": 50565430,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:43:58Z",
+            "last_commit": "2026-08-28T00:19:20Z",
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36240
+            "stars": 36257
           }
         },
         {
@@ -913,7 +913,7 @@
             "archived": false,
             "id": 139910229,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T21:48:47Z",
+            "last_commit": "2026-08-27T22:50:19Z",
             "owner": "npm",
             "repo": "cli",
             "stars": 10062
@@ -960,7 +960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:53:05.083Z",
+    "last_updated": "2026-08-28T00:29:08.200Z",
     "original_repository_info": {
       "archived": false,
       "id": 49596056,
@@ -968,7 +968,7 @@
       "last_commit": "2026-04-20T12:11:28Z",
       "owner": "sindresorhus",
       "repo": "awesome-npm",
-      "stars": 4735
+      "stars": 4736
     },
     "original_repository_sha": "f758b3a7b3e5ff99707b803da4f1396515061dec",
     "enhanced_repository": "enhansome/enhansome-npm",
