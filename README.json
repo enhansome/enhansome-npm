@@ -16,7 +16,8 @@
             "owner": "max-mapper",
             "repo": "art-of-node",
             "stars": 9878
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.707Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "sindresorhus",
             "repo": "guides",
             "stars": 2518
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.707Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "sindresorhus",
             "repo": "ama",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.707Z"
         }
       ],
       "title": "Articles"
@@ -68,8 +71,9 @@
                 "last_commit": "2026-08-05T03:17:14Z",
                 "owner": "voidcosmos",
                 "repo": "npkill",
-                "stars": 9432
-              }
+                "stars": 9433
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -84,7 +88,8 @@
                 "owner": "lukechilds",
                 "repo": "zsh-better-npm-completion",
                 "stars": 500
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             }
           ],
           "description": null,
@@ -108,11 +113,12 @@
                 "archived": false,
                 "id": 24063576,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T21:54:52Z",
+                "last_commit": "2026-08-28T10:49:00Z",
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24010
-              }
+                "stars": 24015
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -126,8 +132,9 @@
                 "last_commit": "2026-08-09T07:29:51Z",
                 "owner": "release-it",
                 "repo": "release-it",
-                "stars": 9039
-              }
+                "stars": 9040
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -142,7 +149,8 @@
                 "owner": "sindresorhus",
                 "repo": "np",
                 "stars": 7712
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -157,7 +165,8 @@
                 "owner": "inikulin",
                 "repo": "publish-please",
                 "stars": 736
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -172,7 +181,8 @@
                 "owner": "tgvashworth",
                 "repo": "npm-release",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -187,7 +197,8 @@
                 "owner": "timoxley",
                 "repo": "pkgfiles",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             }
           ],
           "description": null,
@@ -209,7 +220,8 @@
                 "owner": "verdaccio",
                 "repo": "verdaccio",
                 "stars": 17846
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -224,7 +236,8 @@
                 "owner": "Pana",
                 "repo": "nrm",
                 "stars": 3016
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -239,7 +252,8 @@
                 "owner": "jdx",
                 "repo": "npm-register",
                 "stars": 484
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -254,7 +268,8 @@
                 "owner": "sindresorhus",
                 "repo": "npm-name-cli",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -269,7 +284,8 @@
                 "owner": "sindresorhus",
                 "repo": "package-json",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -284,7 +300,8 @@
                 "owner": "postmanlabs",
                 "repo": "npm-cli-login",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -299,7 +316,8 @@
                 "owner": "sindresorhus",
                 "repo": "npm-user",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -314,7 +332,8 @@
                 "owner": "sindresorhus",
                 "repo": "latest-version-cli",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -329,7 +348,8 @@
                 "owner": "sindresorhus",
                 "repo": "npm-keyword",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -344,7 +364,8 @@
                 "owner": "hughsk",
                 "repo": "npm-stats",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -359,7 +380,8 @@
                 "owner": "sindresorhus",
                 "repo": "npm-email",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -374,7 +396,8 @@
                 "owner": "gillstrom",
                 "repo": "dpn",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -389,7 +412,8 @@
                 "owner": "kevva",
                 "repo": "npm-user-packages-cli",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             }
           ],
           "description": null,
@@ -411,7 +435,8 @@
                 "owner": "dylang",
                 "repo": "npm-check",
                 "stars": 6642
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -426,7 +451,8 @@
                 "owner": "mysticatea",
                 "repo": "npm-run-all",
                 "stars": 5837
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -441,7 +467,8 @@
                 "owner": "felixrieseberg",
                 "repo": "npm-windows-upgrade",
                 "stars": 2503
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -456,7 +483,8 @@
                 "owner": "maticzav",
                 "repo": "emma-cli",
                 "stars": 1245
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -471,7 +499,8 @@
                 "owner": "local-npm",
                 "repo": "local-npm",
                 "stars": 1174
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -486,7 +515,8 @@
                 "owner": "rvpanoz",
                 "repo": "luna",
                 "stars": 1005
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -501,7 +531,8 @@
                 "owner": "alanshaw",
                 "repo": "david",
                 "stars": 967
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -516,7 +547,8 @@
                 "owner": "ruyadorno",
                 "repo": "ntl",
                 "stars": 963
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -531,7 +563,8 @@
                 "owner": "lirantal",
                 "repo": "lockfile-lint",
                 "stars": 868
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -546,7 +579,8 @@
                 "owner": "Qard",
                 "repo": "onchange",
                 "stars": 826
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -561,7 +595,8 @@
                 "owner": "JamieMason",
                 "repo": "shrinkpack",
                 "stars": 802
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -576,7 +611,8 @@
                 "owner": "imsnif",
                 "repo": "synp",
                 "stars": 790
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -591,7 +627,8 @@
                 "owner": "uber-archive",
                 "repo": "npm-shrinkwrap",
                 "stars": 770
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -606,7 +643,8 @@
                 "owner": "sindresorhus",
                 "repo": "generator-nm",
                 "stars": 733
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -621,7 +659,8 @@
                 "owner": "egoist",
                 "repo": "package-size",
                 "stars": 424
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -636,7 +675,8 @@
                 "owner": "th0r",
                 "repo": "npm-upgrade",
                 "stars": 338
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -651,7 +691,8 @@
                 "owner": "sindresorhus",
                 "repo": "read-package-up",
                 "stars": 268
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -666,7 +707,8 @@
                 "owner": "npm",
                 "repo": "normalize-package-data",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -681,7 +723,8 @@
                 "owner": "sindresorhus",
                 "repo": "npm-home",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -696,7 +739,8 @@
                 "owner": "sindresorhus",
                 "repo": "gh-home",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -711,7 +755,8 @@
                 "owner": "sindresorhus",
                 "repo": "package-up",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -726,7 +771,8 @@
                 "owner": "coderaiser",
                 "repo": "redrun",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -741,7 +787,8 @@
                 "owner": "sindresorhus",
                 "repo": "package-config",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -756,7 +803,8 @@
                 "owner": "sindresorhus",
                 "repo": "npm-run-path",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -771,7 +819,8 @@
                 "owner": "zeke",
                 "repo": "npe",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -786,7 +835,8 @@
                 "owner": "micromata",
                 "repo": "cli-error-notifier",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -801,7 +851,8 @@
                 "owner": "seanzarrin",
                 "repo": "npm-issues",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -816,7 +867,8 @@
                 "owner": "davej",
                 "repo": "john",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -831,7 +883,8 @@
                 "owner": "samccone",
                 "repo": "engine-deps",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -846,7 +899,8 @@
                 "owner": "egoist",
                 "repo": "decheck",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             },
             {
               "node_type": "item",
@@ -861,7 +915,8 @@
                 "owner": "amovah",
                 "repo": "enpeem-search",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
             }
           ],
           "description": null,
@@ -887,7 +942,8 @@
             "owner": "yarnpkg",
             "repo": "yarn",
             "stars": 41486
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.707Z"
         },
         {
           "node_type": "item",
@@ -898,11 +954,12 @@
             "archived": false,
             "id": 50565430,
             "language": "Rust",
-            "last_commit": "2026-08-28T00:19:20Z",
+            "last_commit": "2026-08-29T00:02:36Z",
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36257
-          }
+            "stars": 36295
+          },
+          "first_seen": "2026-08-29T00:03:06.707Z"
         },
         {
           "node_type": "item",
@@ -913,11 +970,12 @@
             "archived": false,
             "id": 139910229,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T22:50:19Z",
+            "last_commit": "2026-08-28T18:04:32Z",
             "owner": "npm",
             "repo": "cli",
-            "stars": 10062
-          }
+            "stars": 10073
+          },
+          "first_seen": "2026-08-29T00:03:06.707Z"
         }
       ],
       "title": "Clients"
@@ -938,7 +996,8 @@
             "owner": "npm",
             "repo": "npm",
             "stars": 17621
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.707Z"
         },
         {
           "node_type": "item",
@@ -953,14 +1012,15 @@
             "owner": "npm",
             "repo": "download-counts",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-29T00:03:06.707Z"
         }
       ],
       "title": "Documentation"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:29:08.200Z",
+    "last_updated": "2026-08-29T00:03:06.707Z",
     "original_repository_info": {
       "archived": false,
       "id": 49596056,
