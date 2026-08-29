@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":snowflake: a short introduction to node.js",
+            "homepage": "https://github.com/maxogden/art-of-node#the-art-of-node",
             "id": 8936633,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-08-03T14:56:30Z",
+            "open_issues": 15,
             "owner": "max-mapper",
             "repo": "art-of-node",
-            "stars": 9878
+            "stars": 9878,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of succinct guides - Public Domain",
+            "homepage": null,
             "id": 11079276,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-20T10:13:43Z",
+            "open_issues": 9,
             "owner": "sindresorhus",
             "repo": "guides",
-            "stars": 2518
+            "stars": 2518,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
         },
@@ -42,12 +52,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[[I'm slow at replying these days, but I hope to get back to answering questions eventually]] Ask me anything!",
+            "homepage": "https://blog.sindresorhus.com/answering-anything-678ce5623798",
             "id": 38368663,
             "language": null,
+            "license": null,
             "last_commit": "2021-01-24T07:05:30Z",
+            "open_issues": 154,
             "owner": "sindresorhus",
             "repo": "ama",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "ama",
+              "answers",
+              "ask",
+              "ask-me-anything",
+              "meta",
+              "open-content",
+              "personal",
+              "question-answering",
+              "questions",
+              "questions-and-answers"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
         }
@@ -66,12 +92,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹",
+                "homepage": "https://npkill.js.org",
                 "id": 194513266,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-05T03:17:14Z",
+                "open_issues": 24,
                 "owner": "voidcosmos",
                 "repo": "npkill",
-                "stars": 9433
+                "stars": 9433,
+                "topics": [
+                  "cli",
+                  "command-line",
+                  "developer-tools",
+                  "hacktoberfest",
+                  "javascript",
+                  "module",
+                  "node",
+                  "nodejs",
+                  "npm",
+                  "tool",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -82,12 +125,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Better completion for npm",
+                "homepage": null,
                 "id": 62261902,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2024-10-31T09:38:35Z",
+                "open_issues": 12,
                 "owner": "lukechilds",
                 "repo": "zsh-better-npm-completion",
-                "stars": 500
+                "stars": 500,
+                "topics": [
+                  "completion",
+                  "npm",
+                  "zsh",
+                  "zsh-plugin"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             }
@@ -111,12 +164,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📦🚀 Fully automated version management and package publishing",
+                "homepage": "https://semantic-release.org",
                 "id": 24063576,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:49:00Z",
+                "open_issues": 404,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24015
+                "stars": 24015,
+                "topics": [
+                  "automation",
+                  "changelog",
+                  "package",
+                  "publish",
+                  "release",
+                  "release-automation",
+                  "release-workflow",
+                  "semantic-release",
+                  "semantic-version",
+                  "semver",
+                  "semver-release",
+                  "version"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -127,12 +198,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Automate versioning and package publishing",
+                "homepage": null,
                 "id": 15921313,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-09T07:29:51Z",
+                "open_issues": 10,
                 "owner": "release-it",
                 "repo": "release-it",
-                "stars": 9040
+                "stars": 9040,
+                "topics": [
+                  "automation",
+                  "bump",
+                  "changelog",
+                  "ci-mode",
+                  "cli",
+                  "continuous-delivery",
+                  "git",
+                  "github",
+                  "gitlab",
+                  "gitlab-releases",
+                  "hooks",
+                  "npm",
+                  "publish",
+                  "release",
+                  "release-automation",
+                  "release-helper",
+                  "semver",
+                  "tool",
+                  "version"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -143,12 +239,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A better `npm publish`",
+                "homepage": null,
                 "id": 40806530,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-30T22:35:40Z",
+                "open_issues": 3,
                 "owner": "sindresorhus",
                 "repo": "np",
-                "stars": 7712
+                "stars": 7712,
+                "topics": [
+                  "cli",
+                  "cli-app",
+                  "javascript",
+                  "nodejs",
+                  "npm",
+                  "npm-package",
+                  "npm-publish",
+                  "publish",
+                  "yarn"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -159,12 +270,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Safe and highly functional replacement for `npm publish`.",
+                "homepage": null,
                 "id": 47348757,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-08-24T04:21:01Z",
+                "open_issues": 6,
                 "owner": "inikulin",
                 "repo": "publish-please",
-                "stars": 736
+                "stars": 736,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -175,12 +291,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Making releasing to npm so easy a kitten could probably do it™",
+                "homepage": null,
                 "id": 9892007,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-15T22:54:04Z",
+                "open_issues": 1,
                 "owner": "tgvashworth",
                 "repo": "npm-release",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -191,12 +312,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sanity check which files you are and aren't about to publish to npm",
+                "homepage": null,
                 "id": 24556017,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-04-10T16:19:51Z",
+                "open_issues": 9,
                 "owner": "timoxley",
                 "repo": "pkgfiles",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             }
@@ -214,12 +340,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight Node.js private proxy registry",
+                "homepage": "https://www.verdaccio.org/",
                 "id": 56333861,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:52:32Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:26:03Z",
+                "open_issues": 32,
                 "owner": "verdaccio",
                 "repo": "verdaccio",
-                "stars": 17846
+                "stars": 17846,
+                "topics": [
+                  "docker",
+                  "helm",
+                  "helm-charts",
+                  "javascript",
+                  "kubernetes",
+                  "nodejs",
+                  "npm",
+                  "pnpm",
+                  "private-npm",
+                  "registry",
+                  "registry-proxy",
+                  "sponsor",
+                  "verdaccio",
+                  "yarn"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -230,12 +376,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao",
+                "homepage": null,
                 "id": 17277700,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-13T02:08:58Z",
+                "open_issues": 32,
                 "owner": "Pana",
                 "repo": "nrm",
-                "stars": 3016
+                "stars": 3016,
+                "topics": [
+                  "npm",
+                  "nrm",
+                  "registries",
+                  "registry-manager"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -246,12 +402,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Your own private npm registry and backup server",
+                "homepage": null,
                 "id": 36570207,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2025-01-08T23:02:25Z",
+                "open_issues": 19,
                 "owner": "jdx",
                 "repo": "npm-register",
-                "stars": 484
+                "stars": 484,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -262,12 +423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check whether a package or organization name is available on npm",
+                "homepage": null,
                 "id": 44530124,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-15T11:45:17Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "npm-name-cli",
-                "stars": 289
+                "stars": 289,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -278,12 +444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get metadata of a package from the npm registry",
+                "homepage": null,
                 "id": 20861133,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-25T12:09:49Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "package-json",
-                "stars": 251
+                "stars": 251,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -294,12 +465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 51820725,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-07-20T08:36:35Z",
+                "open_issues": 52,
                 "owner": "postmanlabs",
                 "repo": "npm-cli-login",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -310,12 +486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get user info of an npm user",
+                "homepage": null,
                 "id": 35735954,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-28T20:01:07Z",
+                "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "npm-user",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -326,12 +507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get the latest version of an npm package",
+                "homepage": null,
                 "id": 43978378,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-27T07:15:32Z",
+                "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "latest-version-cli",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -342,12 +528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get a list of npm packages with keywords",
+                "homepage": null,
                 "id": 29432713,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-26T04:04:48Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "npm-keyword",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -358,12 +549,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convenience module for getting data from an NPM registry",
+                "homepage": null,
                 "id": 8984787,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2016-03-29T06:08:12Z",
+                "open_issues": 6,
                 "owner": "hughsk",
                 "repo": "npm-stats",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -374,12 +570,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get the email of an npm user",
+                "homepage": null,
                 "id": 35190850,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-29T06:29:16Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "npm-email",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -390,12 +591,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get the dependents of a users npm modules",
+                "homepage": null,
                 "id": 45819612,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-09-23T10:47:04Z",
+                "open_issues": 0,
                 "owner": "gillstrom",
                 "repo": "dpn",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "dependents",
+                  "npm"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -406,12 +615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get packages by a npm user",
+                "homepage": null,
                 "id": 49344805,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-07-06T00:21:33Z",
+                "open_issues": 0,
                 "owner": "kevva",
                 "repo": "npm-user-packages-cli",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             }
@@ -429,12 +643,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check for outdated, incorrect, and unused dependencies.",
+                "homepage": "https://www.npmjs.com/package/npm-check",
                 "id": 20633857,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-22T13:48:57Z",
+                "open_issues": 232,
                 "owner": "dylang",
                 "repo": "npm-check",
-                "stars": 6642
+                "stars": 6642,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -445,12 +664,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CLI tool to run multiple npm-scripts in parallel or sequential.",
+                "homepage": null,
                 "id": 32727687,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-08-15T05:51:28Z",
+                "open_issues": 114,
                 "owner": "mysticatea",
                 "repo": "npm-run-all",
-                "stars": 5837
+                "stars": 5837,
+                "topics": [
+                  "cli",
+                  "cli-command",
+                  "cli-commands",
+                  "javascript",
+                  "multi-platform",
+                  "npm",
+                  "npm-module",
+                  "npm-package",
+                  "npm-scripts",
+                  "parallel",
+                  "series"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -461,12 +697,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":rocket: Upgrade npm on Windows",
+                "homepage": null,
                 "id": 38216587,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-05-10T13:07:29Z",
+                "open_issues": 48,
                 "owner": "felixrieseberg",
                 "repo": "npm-windows-upgrade",
-                "stars": 2503
+                "stars": 2502,
+                "topics": [
+                  "microsoft",
+                  "nodejs",
+                  "npm",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -477,12 +723,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📦 Terminal assistant to find and install node packages.",
+                "homepage": null,
                 "id": 124099123,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-26T10:58:16Z",
+                "open_issues": 48,
                 "owner": "maticzav",
                 "repo": "emma-cli",
-                "stars": 1245
+                "stars": 1245,
+                "topics": [
+                  "algolia",
+                  "cli",
+                  "npm",
+                  "terminal",
+                  "yarn"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -493,12 +750,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local and offline-first npm mirror",
+                "homepage": null,
                 "id": 22590963,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2020-02-24T19:45:19Z",
+                "open_issues": 33,
                 "owner": "local-npm",
                 "repo": "local-npm",
-                "stars": 1174
+                "stars": 1174,
+                "topics": [
+                  "mirror",
+                  "node",
+                  "npm",
+                  "offline",
+                  "registrty"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -509,12 +777,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage npm dependencies through a modern UI.",
+                "homepage": null,
                 "id": 103998055,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-01T14:35:02Z",
+                "open_issues": 12,
                 "owner": "rvpanoz",
                 "repo": "luna",
-                "stars": 1005
+                "stars": 1005,
+                "topics": [
+                  "electron",
+                  "epics",
+                  "javascript",
+                  "linux",
+                  "macos",
+                  "material-ui",
+                  "nodejs",
+                  "npm",
+                  "npm-desktop-manager",
+                  "npm-gui",
+                  "npm-management",
+                  "observables",
+                  "react",
+                  "reactjs",
+                  "redux",
+                  "redux-observable",
+                  "rxjs6",
+                  "webpack",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -525,12 +818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " :eyeglasses: Node.js module that tells you when your package npm dependencies are out of date.",
+                "homepage": "https://david-dm.org",
                 "id": 7739877,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-10T10:06:02Z",
+                "open_issues": 41,
                 "owner": "alanshaw",
                 "repo": "david",
-                "stars": 967
+                "stars": 967,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -541,12 +839,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node Task List: Interactive cli to list and run package.json scripts",
+                "homepage": "https://www.npmjs.com/package/ntl",
                 "id": 51282204,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-05-23T13:18:51Z",
+                "open_issues": 26,
                 "owner": "ruyadorno",
                 "repo": "ntl",
-                "stars": 963
+                "stars": 963,
+                "topics": [
+                  "cli",
+                  "command-line",
+                  "javascript",
+                  "js",
+                  "nodejs",
+                  "npm",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -557,12 +868,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lint an npm or yarn lockfile to analyze and detect security issues",
+                "homepage": null,
                 "id": 189734318,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T16:50:30Z",
+                "open_issues": 6,
                 "owner": "lirantal",
                 "repo": "lockfile-lint",
-                "stars": 868
+                "stars": 868,
+                "topics": [
+                  "hacktoberfest",
+                  "lint",
+                  "linter",
+                  "lockfile",
+                  "lockfiles",
+                  "nodejs",
+                  "npm",
+                  "yarn"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -573,12 +898,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use glob patterns to watch file sets and run a command when anything is added, changed or deleted.",
+                "homepage": null,
                 "id": 16022081,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-18T20:53:10Z",
+                "open_issues": 5,
                 "owner": "Qard",
                 "repo": "onchange",
-                "stars": 826
+                "stars": 826,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -589,12 +919,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, resilient, reproducible builds with npm install.",
+                "homepage": "https://www.npmjs.com/package/shrinkpack",
                 "id": 30769486,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-02-16T23:23:21Z",
+                "open_issues": 3,
                 "owner": "JamieMason",
                 "repo": "shrinkpack",
-                "stars": 802
+                "stars": 802,
+                "topics": [
+                  "ci",
+                  "cli",
+                  "dependencies",
+                  "dependency",
+                  "dependency-manager",
+                  "install",
+                  "lockfile",
+                  "npm",
+                  "offline-mirror",
+                  "package",
+                  "package-json",
+                  "package-lock",
+                  "pnpm",
+                  "shrinkwrap",
+                  "yarn"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -605,12 +956,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert yarn.lock to package-lock.json and vice versa",
+                "homepage": null,
                 "id": 110010231,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-12T08:30:53Z",
+                "open_issues": 18,
                 "owner": "imsnif",
                 "repo": "synp",
-                "stars": 790
+                "stars": 790,
+                "topics": [
+                  "converter",
+                  "npm",
+                  "npm-package",
+                  "package-lock-json",
+                  "yarn"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -621,12 +983,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A consistent shrinkwrap tool",
+                "homepage": null,
                 "id": 17725723,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-07-07T19:00:30Z",
+                "open_issues": 47,
                 "owner": "uber-archive",
                 "repo": "npm-shrinkwrap",
-                "stars": 770
+                "stars": 770,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -637,12 +1004,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Scaffold out a node module",
+                "homepage": null,
                 "id": 32198196,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-05-02T14:34:36Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "generator-nm",
-                "stars": 733
+                "stars": 733,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -653,12 +1025,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get the bundle size of an npm package.",
+                "homepage": null,
                 "id": 77233895,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-06-18T15:55:45Z",
+                "open_issues": 12,
                 "owner": "egoist",
                 "repo": "package-size",
-                "stars": 424
+                "stars": 424,
+                "topics": [
+                  "bundle",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -669,12 +1049,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive CLI utility to easily update outdated NPM dependencies",
+                "homepage": null,
                 "id": 45927036,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-20T09:01:54Z",
+                "open_issues": 21,
                 "owner": "th0r",
                 "repo": "npm-upgrade",
-                "stars": 338
+                "stars": 338,
+                "topics": [
+                  "changelog",
+                  "cli",
+                  "deps",
+                  "interactive",
+                  "npm",
+                  "outdated",
+                  "packages",
+                  "update",
+                  "upgrade"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -685,12 +1080,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read the closest package.json file",
+                "homepage": null,
                 "id": 41842429,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-11-07T18:11:06Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "read-package-up",
-                "stars": 268
+                "stars": 268,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -701,12 +1101,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "normalizes package metadata, typically found in package.json file.",
+                "homepage": null,
                 "id": 9301720,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-18T16:25:34Z",
+                "open_issues": 18,
                 "owner": "npm",
                 "repo": "normalize-package-data",
-                "stars": 205
+                "stars": 205,
+                "topics": [
+                  "npm-cli"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -717,12 +1124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open the npm page, Yarn page, or GitHub repo of a package",
+                "homepage": null,
                 "id": 49517242,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-25T18:28:26Z",
+                "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "npm-home",
-                "stars": 198
+                "stars": 198,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -733,12 +1145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open the GitHub page of the given or current directory repo",
+                "homepage": null,
                 "id": 49517380,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-21T11:57:59Z",
+                "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "gh-home",
-                "stars": 193
+                "stars": 193,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -749,12 +1166,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find the closest package.json file",
+                "homepage": null,
                 "id": 42858118,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-06-05T18:56:51Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "package-up",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -765,12 +1187,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨🐌 🐎✨  fastest npm scripts runner",
+                "homepage": null,
                 "id": 56325866,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-20T20:12:55Z",
+                "open_issues": 0,
                 "owner": "coderaiser",
                 "repo": "redrun",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "cli",
+                  "cli-command",
+                  "multi-platform",
+                  "nodejs",
+                  "npm",
+                  "npm-run-all",
+                  "npm-scripts",
+                  "parallel",
+                  "parser",
+                  "series",
+                  "shell",
+                  "task-runner"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -781,12 +1221,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get namespaced config from the closest package.json",
+                "homepage": null,
                 "id": 41794781,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-05T19:11:54Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "package-config",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -797,12 +1242,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get your PATH prepended with locally installed binaries",
+                "homepage": null,
                 "id": 48707028,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-28T05:10:35Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "npm-run-path",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -813,12 +1263,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node Package Editor: a CLI for one-off inspection and editing of properties in package.json files.",
+                "homepage": null,
                 "id": 20623707,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-05-25T16:48:08Z",
+                "open_issues": 6,
                 "owner": "zeke",
                 "repo": "npe",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -829,12 +1284,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sends native desktop notifications if CLI apps fail",
+                "homepage": "https://labs.micromata.de",
                 "id": 119104716,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-07-19T22:29:02Z",
+                "open_issues": 10,
                 "owner": "micromata",
                 "repo": "cli-error-notifier",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "cli",
+                  "cli-apps",
+                  "cli-error-notifier",
+                  "desktop-notifications",
+                  "error-handling",
+                  "node-js",
+                  "node-notifier",
+                  "notification-center",
+                  "notifier",
+                  "notify",
+                  "npm-scripts",
+                  "watch-files"
+                ]
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -845,12 +1318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search issues based on the packages you have locally installed",
+                "homepage": null,
                 "id": 49562036,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-01-17T06:10:19Z",
+                "open_issues": 0,
                 "owner": "seanzarrin",
                 "repo": "npm-issues",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -861,12 +1339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make npm's flat dependencies easier to find and sort",
+                "homepage": null,
                 "id": 49771985,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-04-09T12:36:21Z",
+                "open_issues": 0,
                 "owner": "davej",
                 "repo": "john",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -877,12 +1360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "install dependencies based on node version ",
+                "homepage": null,
                 "id": 48297445,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-12-22T17:12:49Z",
+                "open_issues": 0,
                 "owner": "samccone",
                 "repo": "engine-deps",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -893,12 +1381,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Checkout the dependencies an npm module depends on",
+                "homepage": null,
                 "id": 52494278,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-12-25T14:32:03Z",
+                "open_issues": 1,
                 "owner": "egoist",
                 "repo": "decheck",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -909,12 +1402,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search npm packages by web scraping and without indexing all npm packages",
+                "homepage": null,
                 "id": 38571300,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-01-17T15:37:04Z",
+                "open_issues": 0,
                 "owner": "amovah",
                 "repo": "enpeem-search",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             }
@@ -936,12 +1434,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry",
+            "homepage": "https://classic.yarnpkg.com",
             "id": 49970642,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-12T11:09:42Z",
+            "open_issues": 2056,
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41486
+            "stars": 41485,
+            "topics": [
+              "javascript",
+              "npm",
+              "package-manager",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
         },
@@ -952,12 +1460,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, disk space efficient package manager",
+            "homepage": "https://pnpm.io",
             "id": 50565430,
             "language": "Rust",
-            "last_commit": "2026-08-29T00:02:36Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:25:04Z",
+            "open_issues": 2508,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36295
+            "stars": 36296,
+            "topics": [
+              "dependency-manager",
+              "install",
+              "javascript",
+              "modules",
+              "node",
+              "nodejs",
+              "npm",
+              "package-manager"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
         },
@@ -968,12 +1490,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the package manager for JavaScript",
+            "homepage": "https://docs.npmjs.com/cli/",
             "id": 139910229,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:04:32Z",
+            "open_issues": 724,
             "owner": "npm",
             "repo": "cli",
-            "stars": 10073
+            "stars": 10074,
+            "topics": [
+              "javascript",
+              "nodejs",
+              "npm",
+              "npm-cli",
+              "package-manager",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
         }
@@ -990,12 +1524,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repository is moving to: https://github.com/npm/cli",
+            "homepage": "http://npm.community",
             "id": 321278,
             "language": null,
+            "license": null,
             "last_commit": "2020-08-07T14:31:21Z",
+            "open_issues": 2163,
             "owner": "npm",
             "repo": "npm",
-            "stars": 17621
+            "stars": 17621,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
         },
@@ -1006,12 +1545,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Background jobs and a minimal service for collecting and delivering download counts",
+            "homepage": null,
             "id": 16905103,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-03-24T19:01:08Z",
+            "open_issues": 12,
             "owner": "npm",
             "repo": "download-counts",
-            "stars": 333
+            "stars": 333,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
         }
@@ -1020,15 +1564,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:03:06.707Z",
+    "last_updated": "2026-08-29T04:16:22.413Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome npm resources and tips",
+      "homepage": null,
       "id": 49596056,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-20T12:11:28Z",
+      "open_issues": 1,
       "owner": "sindresorhus",
       "repo": "awesome-npm",
-      "stars": 4736
+      "stars": 4736,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "node",
+        "nodejs",
+        "npm",
+        "package-manager",
+        "yarn"
+      ]
     },
     "original_repository_sha": "f758b3a7b3e5ff99707b803da4f1396515061dec",
     "enhanced_repository": "enhansome/enhansome-npm",

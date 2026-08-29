@@ -75,7 +75,7 @@
 
 ### Registry
 
-* [verdaccio](https://github.com/verdaccio/verdaccio) ⭐ 17,846 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-27 - Lightweight private npm proxy registry.
+* [verdaccio](https://github.com/verdaccio/verdaccio) ⭐ 17,846 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-29 - Lightweight private npm proxy registry.
 * [nrm](https://github.com/Pana/nrm) ⭐ 3,016 | 🐛 32 | 🌐 TypeScript | 📅 2025-07-13 - Registry manager.
 * [npm-register](https://github.com/dickeyxxx/npm-register) ⚠️ Archived - Easy to set up and maintain npm registry and proxy.
 * [npm-name](https://github.com/sindresorhus/npm-name-cli) ⭐ 289 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-15 - Check whether a package name is available on npm.
@@ -127,9 +127,9 @@
 
 ## Clients
 
-* [yarn](https://github.com/yarnpkg/yarn) ⭐ 41,486 | 🐛 2,056 | 🌐 JavaScript | 📅 2026-05-12 - Fast, reliable, and secure dependency management.
-* [pnpm](https://github.com/pnpm/pnpm) ⭐ 36,295 | 🐛 2,504 | 🌐 Rust | 📅 2026-08-29 - Fast, disk space efficient package manager.
-* [npm](https://github.com/npm/cli) ⭐ 10,073 | 🐛 723 | 🌐 JavaScript | 📅 2026-08-28 - The official client.
+* [yarn](https://github.com/yarnpkg/yarn) ⭐ 41,485 | 🐛 2,056 | 🌐 JavaScript | 📅 2026-05-12 - Fast, reliable, and secure dependency management.
+* [pnpm](https://github.com/pnpm/pnpm) ⭐ 36,296 | 🐛 2,508 | 🌐 Rust | 📅 2026-08-29 - Fast, disk space efficient package manager.
+* [npm](https://github.com/npm/cli) ⭐ 10,074 | 🐛 724 | 🌐 JavaScript | 📅 2026-08-28 - The official client.
 
 ## Tips
 
