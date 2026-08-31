@@ -101,7 +101,7 @@
                 "open_issues": 24,
                 "owner": "voidcosmos",
                 "repo": "npkill",
-                "stars": 9432,
+                "stars": 9431,
                 "topics": [
                   "cli",
                   "command-line",
@@ -173,7 +173,7 @@
                 "open_issues": 403,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24013,
+                "stars": 24014,
                 "topics": [
                   "automation",
                   "changelog",
@@ -207,7 +207,7 @@
                 "open_issues": 10,
                 "owner": "release-it",
                 "repo": "release-it",
-                "stars": 9040,
+                "stars": 9041,
                 "topics": [
                   "automation",
                   "bump",
@@ -248,7 +248,7 @@
                 "open_issues": 3,
                 "owner": "sindresorhus",
                 "repo": "np",
-                "stars": 7712,
+                "stars": 7713,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -349,7 +349,7 @@
                 "open_issues": 31,
                 "owner": "verdaccio",
                 "repo": "verdaccio",
-                "stars": 17848,
+                "stars": 17851,
                 "topics": [
                   "docker",
                   "helm",
@@ -385,7 +385,7 @@
                 "open_issues": 32,
                 "owner": "Pana",
                 "repo": "nrm",
-                "stars": 3016,
+                "stars": 3017,
                 "topics": [
                   "npm",
                   "nrm",
@@ -1465,11 +1465,11 @@
             "id": 50565430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-30T06:19:43Z",
-            "open_issues": 2526,
+            "last_commit": "2026-08-31T20:35:44Z",
+            "open_issues": 2502,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36320,
+            "stars": 36334,
             "topics": [
               "dependency-manager",
               "install",
@@ -1495,11 +1495,11 @@
             "id": 139910229,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T18:04:32Z",
-            "open_issues": 725,
+            "last_commit": "2026-08-31T18:50:40Z",
+            "open_issues": 724,
             "owner": "npm",
             "repo": "cli",
-            "stars": 10078,
+            "stars": 10079,
             "topics": [
               "javascript",
               "nodejs",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:41:04.791Z",
+    "last_updated": "2026-08-31T20:55:42.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome npm resources and tips",
