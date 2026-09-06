@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "max-mapper",
             "repo": "art-of-node",
-            "stars": 9878,
+            "stars": 9876,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
@@ -101,7 +101,7 @@
                 "open_issues": 24,
                 "owner": "voidcosmos",
                 "repo": "npkill",
-                "stars": 9432,
+                "stars": 9435,
                 "topics": [
                   "cli",
                   "command-line",
@@ -169,11 +169,11 @@
                 "id": 24063576,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T03:49:32Z",
+                "last_commit": "2026-09-05T22:29:12Z",
                 "open_issues": 405,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24024,
+                "stars": 24026,
                 "topics": [
                   "automation",
                   "changelog",
@@ -207,7 +207,7 @@
                 "open_issues": 10,
                 "owner": "release-it",
                 "repo": "release-it",
-                "stars": 9042,
+                "stars": 9044,
                 "topics": [
                   "automation",
                   "bump",
@@ -345,11 +345,11 @@
                 "id": 56333861,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T08:20:32Z",
-                "open_issues": 38,
+                "last_commit": "2026-09-06T11:06:18Z",
+                "open_issues": 39,
                 "owner": "verdaccio",
                 "repo": "verdaccio",
-                "stars": 17863,
+                "stars": 17867,
                 "topics": [
                   "docker",
                   "helm",
@@ -652,7 +652,7 @@
                 "open_issues": 232,
                 "owner": "dylang",
                 "repo": "npm-check",
-                "stars": 6643,
+                "stars": 6642,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
@@ -992,7 +992,7 @@
                 "open_issues": 47,
                 "owner": "uber-archive",
                 "repo": "npm-shrinkwrap",
-                "stars": 770,
+                "stars": 769,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
@@ -1443,7 +1443,7 @@
             "open_issues": 2056,
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41483,
+            "stars": 41484,
             "topics": [
               "javascript",
               "npm",
@@ -1465,11 +1465,11 @@
             "id": 50565430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-05T17:23:53Z",
-            "open_issues": 2548,
+            "last_commit": "2026-09-06T17:19:33Z",
+            "open_issues": 2544,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36422,
+            "stars": 36441,
             "topics": [
               "dependency-manager",
               "install",
@@ -1496,7 +1496,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T22:32:30Z",
-            "open_issues": 733,
+            "open_issues": 734,
             "owner": "npm",
             "repo": "cli",
             "stars": 10094,
@@ -1533,7 +1533,7 @@
             "open_issues": 2163,
             "owner": "npm",
             "repo": "npm",
-            "stars": 17623,
+            "stars": 17622,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T17:26:06.839Z",
+    "last_updated": "2026-09-06T17:38:09.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome npm resources and tips",
