@@ -97,11 +97,11 @@
                 "id": 194513266,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-05T03:17:14Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-06T19:30:54Z",
+                "open_issues": 27,
                 "owner": "voidcosmos",
                 "repo": "npkill",
-                "stars": 9435,
+                "stars": 9437,
                 "topics": [
                   "cli",
                   "command-line",
@@ -173,7 +173,7 @@
                 "open_issues": 405,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24026,
+                "stars": 24028,
                 "topics": [
                   "automation",
                   "changelog",
@@ -207,7 +207,7 @@
                 "open_issues": 10,
                 "owner": "release-it",
                 "repo": "release-it",
-                "stars": 9044,
+                "stars": 9047,
                 "topics": [
                   "automation",
                   "bump",
@@ -248,7 +248,7 @@
                 "open_issues": 4,
                 "owner": "sindresorhus",
                 "repo": "np",
-                "stars": 7713,
+                "stars": 7714,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -345,11 +345,11 @@
                 "id": 56333861,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-06T11:06:18Z",
-                "open_issues": 39,
+                "last_commit": "2026-09-07T15:21:13Z",
+                "open_issues": 42,
                 "owner": "verdaccio",
                 "repo": "verdaccio",
-                "stars": 17867,
+                "stars": 17869,
                 "topics": [
                   "docker",
                   "helm",
@@ -385,7 +385,7 @@
                 "open_issues": 32,
                 "owner": "Pana",
                 "repo": "nrm",
-                "stars": 3016,
+                "stars": 3015,
                 "topics": [
                   "npm",
                   "nrm",
@@ -652,7 +652,7 @@
                 "open_issues": 232,
                 "owner": "dylang",
                 "repo": "npm-check",
-                "stars": 6642,
+                "stars": 6641,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
@@ -928,7 +928,7 @@
                 "open_issues": 3,
                 "owner": "JamieMason",
                 "repo": "shrinkpack",
-                "stars": 802,
+                "stars": 801,
                 "topics": [
                   "ci",
                   "cli",
@@ -1465,11 +1465,11 @@
             "id": 50565430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-06T17:19:33Z",
-            "open_issues": 2544,
+            "last_commit": "2026-09-07T19:18:23Z",
+            "open_issues": 2522,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36441,
+            "stars": 36459,
             "topics": [
               "dependency-manager",
               "install",
@@ -1496,10 +1496,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T22:32:30Z",
-            "open_issues": 734,
+            "open_issues": 737,
             "owner": "npm",
             "repo": "cli",
-            "stars": 10094,
+            "stars": 10101,
             "topics": [
               "javascript",
               "nodejs",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:38:09.853Z",
+    "last_updated": "2026-09-07T19:19:00.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome npm resources and tips",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "sindresorhus",
       "repo": "awesome-npm",
-      "stars": 4737,
+      "stars": 4736,
       "topics": [
         "awesome",
         "awesome-list",
