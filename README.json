@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "max-mapper",
             "repo": "art-of-node",
-            "stars": 9875,
+            "stars": 9874,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
@@ -40,7 +40,7 @@
             "open_issues": 9,
             "owner": "sindresorhus",
             "repo": "guides",
-            "stars": 2518,
+            "stars": 2517,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
@@ -173,7 +173,7 @@
                 "open_issues": 404,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24027,
+                "stars": 24031,
                 "topics": [
                   "automation",
                   "changelog",
@@ -207,7 +207,7 @@
                 "open_issues": 10,
                 "owner": "release-it",
                 "repo": "release-it",
-                "stars": 9051,
+                "stars": 9053,
                 "topics": [
                   "automation",
                   "bump",
@@ -244,11 +244,11 @@
                 "id": 40806530,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T22:54:47Z",
+                "last_commit": "2026-09-09T18:34:52Z",
                 "open_issues": 4,
                 "owner": "sindresorhus",
                 "repo": "np",
-                "stars": 7714,
+                "stars": 7713,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -279,7 +279,7 @@
                 "open_issues": 6,
                 "owner": "inikulin",
                 "repo": "publish-please",
-                "stars": 736,
+                "stars": 735,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
@@ -345,11 +345,11 @@
                 "id": 56333861,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T15:21:13Z",
-                "open_issues": 44,
+                "last_commit": "2026-09-09T18:40:38Z",
+                "open_issues": 43,
                 "owner": "verdaccio",
                 "repo": "verdaccio",
-                "stars": 17871,
+                "stars": 17872,
                 "topics": [
                   "docker",
                   "helm",
@@ -385,7 +385,7 @@
                 "open_issues": 32,
                 "owner": "Pana",
                 "repo": "nrm",
-                "stars": 3015,
+                "stars": 3016,
                 "topics": [
                   "npm",
                   "nrm",
@@ -652,7 +652,7 @@
                 "open_issues": 232,
                 "owner": "dylang",
                 "repo": "npm-check",
-                "stars": 6641,
+                "stars": 6640,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
@@ -673,7 +673,7 @@
                 "open_issues": 114,
                 "owner": "mysticatea",
                 "repo": "npm-run-all",
-                "stars": 5837,
+                "stars": 5836,
                 "topics": [
                   "cli",
                   "cli-command",
@@ -706,7 +706,7 @@
                 "open_issues": 48,
                 "owner": "felixrieseberg",
                 "repo": "npm-windows-upgrade",
-                "stars": 2502,
+                "stars": 2501,
                 "topics": [
                   "microsoft",
                   "nodejs",
@@ -759,7 +759,7 @@
                 "open_issues": 33,
                 "owner": "local-npm",
                 "repo": "local-npm",
-                "stars": 1174,
+                "stars": 1172,
                 "topics": [
                   "mirror",
                   "node",
@@ -848,7 +848,7 @@
                 "open_issues": 26,
                 "owner": "ruyadorno",
                 "repo": "ntl",
-                "stars": 964,
+                "stars": 963,
                 "topics": [
                   "cli",
                   "command-line",
@@ -928,7 +928,7 @@
                 "open_issues": 3,
                 "owner": "JamieMason",
                 "repo": "shrinkpack",
-                "stars": 801,
+                "stars": 800,
                 "topics": [
                   "ci",
                   "cli",
@@ -992,7 +992,7 @@
                 "open_issues": 47,
                 "owner": "uber-archive",
                 "repo": "npm-shrinkwrap",
-                "stars": 769,
+                "stars": 768,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
@@ -1058,7 +1058,7 @@
                 "open_issues": 21,
                 "owner": "th0r",
                 "repo": "npm-upgrade",
-                "stars": 338,
+                "stars": 339,
                 "topics": [
                   "changelog",
                   "cli",
@@ -1089,7 +1089,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "read-package-up",
-                "stars": 269,
+                "stars": 267,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
@@ -1110,7 +1110,7 @@
                 "open_issues": 21,
                 "owner": "npm",
                 "repo": "normalize-package-data",
-                "stars": 205,
+                "stars": 204,
                 "topics": [
                   "npm-cli"
                 ]
@@ -1230,7 +1230,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "package-config",
-                "stars": 119,
+                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
@@ -1251,7 +1251,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "npm-run-path",
-                "stars": 110,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
@@ -1443,7 +1443,7 @@
             "open_issues": 2056,
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41483,
+            "stars": 41482,
             "topics": [
               "javascript",
               "npm",
@@ -1465,11 +1465,11 @@
             "id": 50565430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-08T18:45:42Z",
-            "open_issues": 2533,
+            "last_commit": "2026-09-09T18:44:29Z",
+            "open_issues": 2545,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36463,
+            "stars": 36469,
             "topics": [
               "dependency-manager",
               "install",
@@ -1495,8 +1495,8 @@
             "id": 139910229,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T22:32:30Z",
-            "open_issues": 736,
+            "last_commit": "2026-09-08T19:22:53Z",
+            "open_issues": 739,
             "owner": "npm",
             "repo": "cli",
             "stars": 10104,
@@ -1533,7 +1533,7 @@
             "open_issues": 2163,
             "owner": "npm",
             "repo": "npm",
-            "stars": 17621,
+            "stars": 17620,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:51:33.216Z",
+    "last_updated": "2026-09-09T18:45:15.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome npm resources and tips",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "sindresorhus",
       "repo": "awesome-npm",
-      "stars": 4736,
+      "stars": 4735,
       "topics": [
         "awesome",
         "awesome-list",
