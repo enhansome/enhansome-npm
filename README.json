@@ -101,7 +101,7 @@
                 "open_issues": 22,
                 "owner": "voidcosmos",
                 "repo": "npkill",
-                "stars": 9444,
+                "stars": 9445,
                 "topics": [
                   "cli",
                   "command-line",
@@ -169,11 +169,11 @@
                 "id": 24063576,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T13:37:06Z",
+                "last_commit": "2026-09-13T18:10:19Z",
                 "open_issues": 404,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24034,
+                "stars": 24035,
                 "topics": [
                   "automation",
                   "changelog",
@@ -349,7 +349,7 @@
                 "open_issues": 41,
                 "owner": "verdaccio",
                 "repo": "verdaccio",
-                "stars": 17878,
+                "stars": 17880,
                 "topics": [
                   "docker",
                   "helm",
@@ -652,7 +652,7 @@
                 "open_issues": 232,
                 "owner": "dylang",
                 "repo": "npm-check",
-                "stars": 6640,
+                "stars": 6641,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
@@ -874,7 +874,7 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-13T16:50:30Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "lirantal",
                 "repo": "lockfile-lint",
                 "stars": 868,
@@ -961,7 +961,7 @@
                 "id": 110010231,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-12T08:30:53Z",
+                "last_commit": "2026-09-13T15:31:03Z",
                 "open_issues": 18,
                 "owner": "imsnif",
                 "repo": "synp",
@@ -1443,7 +1443,7 @@
             "open_issues": 2056,
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41479,
+            "stars": 41477,
             "topics": [
               "javascript",
               "npm",
@@ -1465,11 +1465,11 @@
             "id": 50565430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T16:42:54Z",
-            "open_issues": 2558,
+            "last_commit": "2026-09-13T17:01:42Z",
+            "open_issues": 2569,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36502,
+            "stars": 36515,
             "topics": [
               "dependency-manager",
               "install",
@@ -1496,7 +1496,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T16:23:30Z",
-            "open_issues": 745,
+            "open_issues": 746,
             "owner": "npm",
             "repo": "cli",
             "stars": 10110,
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:46:18.097Z",
+    "last_updated": "2026-09-13T18:16:50.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome npm resources and tips",
