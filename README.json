@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Install npm packages globally without sudo on macOS and Linux",
-          "description": null,
+          "description": "sindresorhus/guides",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "Small focused modules",
-          "description": null,
+          "description": "sindresorhus/ama",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -345,8 +345,8 @@
                 "id": 56333861,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T19:23:43Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-03T04:22:17Z",
+                "open_issues": 30,
                 "owner": "verdaccio",
                 "repo": "verdaccio",
                 "stars": 17905,
@@ -385,7 +385,7 @@
                 "open_issues": 33,
                 "owner": "Pana",
                 "repo": "nrm",
-                "stars": 3017,
+                "stars": 3018,
                 "topics": [
                   "npm",
                   "nrm",
@@ -1443,7 +1443,7 @@
             "open_issues": 2055,
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41470,
+            "stars": 41471,
             "topics": [
               "javascript",
               "npm",
@@ -1465,11 +1465,11 @@
             "id": 50565430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:01:31Z",
-            "open_issues": 230,
+            "last_commit": "2026-10-02T23:08:07Z",
+            "open_issues": 236,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36729,
+            "stars": 36733,
             "topics": [
               "dependency-manager",
               "install",
@@ -1496,7 +1496,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T21:04:10Z",
-            "open_issues": 798,
+            "open_issues": 799,
             "owner": "npm",
             "repo": "cli",
             "stars": 10165,
@@ -1520,7 +1520,7 @@
         {
           "node_type": "item",
           "title": "Troubleshooting",
-          "description": null,
+          "description": "npm/npm",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1541,7 +1541,7 @@
         {
           "node_type": "item",
           "title": "Stats API",
-          "description": null,
+          "description": "npm/download-counts",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:02:11.617Z",
+    "last_updated": "2026-10-03T05:00:15.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome npm resources and tips",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "sindresorhus",
       "repo": "awesome-npm",
-      "stars": 4743,
+      "stars": 4744,
       "topics": [
         "awesome",
         "awesome-list",
