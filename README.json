@@ -40,7 +40,7 @@
             "open_issues": 9,
             "owner": "sindresorhus",
             "repo": "guides",
-            "stars": 2522,
+            "stars": 2523,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
@@ -101,7 +101,7 @@
                 "open_issues": 24,
                 "owner": "voidcosmos",
                 "repo": "npkill",
-                "stars": 9465,
+                "stars": 9467,
                 "topics": [
                   "cli",
                   "command-line",
@@ -173,7 +173,7 @@
                 "open_issues": 405,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24096,
+                "stars": 24097,
                 "topics": [
                   "automation",
                   "changelog",
@@ -207,7 +207,7 @@
                 "open_issues": 5,
                 "owner": "release-it",
                 "repo": "release-it",
-                "stars": 9066,
+                "stars": 9069,
                 "topics": [
                   "automation",
                   "bump",
@@ -346,7 +346,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-08T20:19:51Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "verdaccio",
                 "repo": "verdaccio",
                 "stars": 17912,
@@ -648,7 +648,7 @@
                 "id": 20633857,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T01:31:50Z",
+                "last_commit": "2026-10-10T09:30:31Z",
                 "open_issues": 232,
                 "owner": "dylang",
                 "repo": "npm-check",
@@ -848,7 +848,7 @@
                 "open_issues": 26,
                 "owner": "ruyadorno",
                 "repo": "ntl",
-                "stars": 963,
+                "stars": 964,
                 "topics": [
                   "cli",
                   "command-line",
@@ -1443,7 +1443,7 @@
             "open_issues": 2055,
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41469,
+            "stars": 41466,
             "topics": [
               "javascript",
               "npm",
@@ -1465,11 +1465,11 @@
             "id": 50565430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-09T20:11:44Z",
-            "open_issues": 217,
+            "last_commit": "2026-10-10T19:20:38Z",
+            "open_issues": 195,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36766,
+            "stars": 36776,
             "topics": [
               "dependency-manager",
               "install",
@@ -1495,11 +1495,11 @@
             "id": 139910229,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T18:05:45Z",
-            "open_issues": 821,
+            "last_commit": "2026-10-09T23:32:50Z",
+            "open_issues": 828,
             "owner": "npm",
             "repo": "cli",
-            "stars": 10181,
+            "stars": 10186,
             "topics": [
               "javascript",
               "nodejs",
@@ -1533,7 +1533,7 @@
             "open_issues": 2162,
             "owner": "npm",
             "repo": "npm",
-            "stars": 17612,
+            "stars": 17611,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:12:09.412Z",
+    "last_updated": "2026-10-10T19:24:50.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome npm resources and tips",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "sindresorhus",
       "repo": "awesome-npm",
-      "stars": 4743,
+      "stars": 4744,
       "topics": [
         "awesome",
         "awesome-list",
