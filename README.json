@@ -101,7 +101,7 @@
                 "open_issues": 21,
                 "owner": "voidcosmos",
                 "repo": "npkill",
-                "stars": 9474,
+                "stars": 9477,
                 "topics": [
                   "cli",
                   "command-line",
@@ -170,10 +170,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-13T14:00:29Z",
-                "open_issues": 408,
+                "open_issues": 407,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24103,
+                "stars": 24105,
                 "topics": [
                   "automation",
                   "changelog",
@@ -207,7 +207,7 @@
                 "open_issues": 5,
                 "owner": "release-it",
                 "repo": "release-it",
-                "stars": 9070,
+                "stars": 9071,
                 "topics": [
                   "automation",
                   "bump",
@@ -345,11 +345,11 @@
                 "id": 56333861,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T20:19:51Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-14T15:44:06Z",
+                "open_issues": 20,
                 "owner": "verdaccio",
                 "repo": "verdaccio",
-                "stars": 17913,
+                "stars": 17910,
                 "topics": [
                   "docker",
                   "helm",
@@ -1058,7 +1058,7 @@
                 "open_issues": 21,
                 "owner": "th0r",
                 "repo": "npm-upgrade",
-                "stars": 339,
+                "stars": 338,
                 "topics": [
                   "changelog",
                   "cli",
@@ -1443,7 +1443,7 @@
             "open_issues": 2055,
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41470,
+            "stars": 41467,
             "topics": [
               "javascript",
               "npm",
@@ -1465,11 +1465,11 @@
             "id": 50565430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-13T20:30:45Z",
-            "open_issues": 200,
+            "last_commit": "2026-10-14T19:22:05Z",
+            "open_issues": 199,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36802,
+            "stars": 36807,
             "topics": [
               "dependency-manager",
               "install",
@@ -1495,11 +1495,11 @@
             "id": 139910229,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T16:57:45Z",
-            "open_issues": 827,
+            "last_commit": "2026-10-14T19:05:43Z",
+            "open_issues": 822,
             "owner": "npm",
             "repo": "cli",
-            "stars": 10193,
+            "stars": 10192,
             "topics": [
               "javascript",
               "nodejs",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:45:42.233Z",
+    "last_updated": "2026-10-14T19:32:31.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome npm resources and tips",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "sindresorhus",
       "repo": "awesome-npm",
-      "stars": 4745,
+      "stars": 4744,
       "topics": [
         "awesome",
         "awesome-list",
