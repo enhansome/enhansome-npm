@@ -59,15 +59,15 @@
 
 ### CLI
 
-* [npkill](https://github.com/voidcosmos/npkill) ⭐ 9,485 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-13 - Easily find and remove old and heavy node\_modules folders.
+* [npkill](https://github.com/voidcosmos/npkill) ⭐ 9,486 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-13 - Easily find and remove old and heavy node\_modules folders.
 * [zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) ⭐ 501 | 🐛 12 | 🌐 Shell | 📅 2024-10-31 - Better ZSH completion for npm.
 
 ## Packages
 
 ### Publishing
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,133 | 🐛 405 | 🌐 JavaScript | 📅 2026-10-26 - Fully automated package publishing.
-* [release-it](https://github.com/webpro/release-it) ⭐ 9,080 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-07 - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+* [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,139 | 🐛 405 | 🌐 JavaScript | 📅 2026-10-26 - Fully automated package publishing.
+* [release-it](https://github.com/webpro/release-it) ⭐ 9,081 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-07 - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 * [np](https://github.com/sindresorhus/np) ⭐ 7,715 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-24 - A better `npm publish`.
 * [publish-please](https://github.com/inikulin/publish-please) ⭐ 736 | 🐛 6 | 🌐 JavaScript | 📅 2024-08-24 - Publish packages safely and gracefully.
 * [npm-release](https://github.com/phuu/npm-release) ⭐ 102 | 🐛 1 | 🌐 JavaScript | 📅 2025-02-15 - Making releasing to npm so easy a kitten could probably do it™.
@@ -75,7 +75,7 @@
 
 ### Registry
 
-* [verdaccio](https://github.com/verdaccio/verdaccio) ⭐ 17,952 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-27 - Lightweight private npm proxy registry.
+* [verdaccio](https://github.com/verdaccio/verdaccio) ⭐ 17,954 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-28 - Lightweight private npm proxy registry.
 * [nrm](https://github.com/Pana/nrm) ⭐ 3,018 | 🐛 33 | 🌐 TypeScript | 📅 2025-07-13 - Registry manager.
 * [npm-register](https://github.com/dickeyxxx/npm-register) ⚠️ Archived - Easy to set up and maintain npm registry and proxy.
 * [npm-name](https://github.com/sindresorhus/npm-name-cli) ⭐ 291 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-15 - Check whether a package name is available on npm.
@@ -101,7 +101,7 @@
 * [luna](https://github.com/rvpanoz/luna) ⭐ 1,006 | 🐛 12 | 🌐 JavaScript | 📅 2025-07-01 - App to manage npm dependencies.
 * [david](https://github.com/alanshaw/david) ⭐ 966 | 🐛 41 | 🌐 JavaScript | 📅 2022-12-10 - Check if your package dependencies are out of date.
 * [ntl](https://github.com/ruyadorno/ntl) ⭐ 965 | 🐛 26 | 🌐 JavaScript | 📅 2024-05-23 - Interactive CLI menu to list & run npm tasks.
-* [lockfile-lint](https://github.com/lirantal/lockfile-lint) ⭐ 870 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-27 - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
+* [lockfile-lint](https://github.com/lirantal/lockfile-lint) ⭐ 870 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-27 - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
 * [onchange](https://github.com/Qard/onchange) ⭐ 826 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-18 - Watch files and folders and run a command when something changed.
 * [shrinkpack](https://github.com/JamieMason/shrinkpack) ⭐ 800 | 🐛 3 | 🌐 TypeScript | 📅 2023-02-16 - Lock down your dependencies and install offline.
 * [synp](https://github.com/imsnif/synp) ⭐ 788 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-18 - Convert yarn.lock to package-lock.json and vice versa.
@@ -127,9 +127,9 @@
 
 ## Clients
 
-* [yarn](https://github.com/yarnpkg/yarn) ⭐ 41,467 | 🐛 2,055 | 🌐 JavaScript | 📅 2026-05-12 - Fast, reliable, and secure dependency management.
-* [pnpm](https://github.com/pnpm/pnpm) ⭐ 36,932 | 🐛 197 | 🌐 Rust | 📅 2026-10-27 - Fast, disk space efficient package manager.
-* [npm](https://github.com/npm/cli) ⭐ 10,220 | 🐛 827 | 🌐 JavaScript | 📅 2026-10-27 - The official client.
+* [yarn](https://github.com/yarnpkg/yarn) ⭐ 41,465 | 🐛 2,055 | 🌐 JavaScript | 📅 2026-05-12 - Fast, reliable, and secure dependency management.
+* [pnpm](https://github.com/pnpm/pnpm) ⭐ 36,948 | 🐛 200 | 🌐 Rust | 📅 2026-10-28 - Fast, disk space efficient package manager.
+* [npm](https://github.com/npm/cli) ⭐ 10,226 | 🐛 816 | 🌐 JavaScript | 📅 2026-10-28 - The official client.
 
 ## Tips
 
@@ -349,7 +349,7 @@ Bentley
 
 ### Run commands with different Node.js versions
 
-With `npx` (Comes bundled with npm v5.2.0 or newer) and the [`node-bin`](https://www.npmjs.com/package/node-bin) package, you can easily try out code in different Node.js versions without having to use a version manager like [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave) ⭐ 1,636 | 🐛 5 | 🌐 Shell | 📅 2026-01-23, or [`n`](https://github.com/tj/n) ⭐ 19,510 | 🐛 1 | 🌐 Shell | 📅 2026-10-18.
+With `npx` (Comes bundled with npm v5.2.0 or newer) and the [`node-bin`](https://www.npmjs.com/package/node-bin) package, you can easily try out code in different Node.js versions without having to use a version manager like [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave) ⭐ 1,636 | 🐛 5 | 🌐 Shell | 📅 2026-01-23, or [`n`](https://github.com/tj/n) ⭐ 19,509 | 🐛 1 | 🌐 Shell | 📅 2026-10-18.
 
 ```
 $ npx --package=node-bin@6.11.0 -- node --version
@@ -466,8 +466,8 @@ Great for prototyping, but download the file or use Browserify yourself for prod
 
 ## Related
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,283 | 🐛 24 | 📅 2026-09-02
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,293 | 🐛 24 | 📅 2026-09-02
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
