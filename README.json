@@ -97,11 +97,11 @@
                 "id": 194513266,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T01:30:08Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-31T22:03:30Z",
+                "open_issues": 23,
                 "owner": "voidcosmos",
                 "repo": "npkill",
-                "stars": 9493,
+                "stars": 9494,
                 "topics": [
                   "cli",
                   "command-line",
@@ -207,7 +207,7 @@
                 "open_issues": 4,
                 "owner": "release-it",
                 "repo": "release-it",
-                "stars": 9083,
+                "stars": 9084,
                 "topics": [
                   "automation",
                   "bump",
@@ -345,11 +345,11 @@
                 "id": 56333861,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T14:49:19Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-01T17:07:40Z",
+                "open_issues": 16,
                 "owner": "verdaccio",
                 "repo": "verdaccio",
-                "stars": 17960,
+                "stars": 17965,
                 "topics": [
                   "docker",
                   "helm",
@@ -648,8 +648,8 @@
                 "id": 20633857,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T12:53:03Z",
-                "open_issues": 235,
+                "last_commit": "2026-11-01T05:11:27Z",
+                "open_issues": 232,
                 "owner": "dylang",
                 "repo": "npm-check",
                 "stars": 6636,
@@ -813,27 +813,6 @@
             },
             {
               "node_type": "item",
-              "title": "david",
-              "description": "Check if your package dependencies are out of date.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": " :eyeglasses: Node.js module that tells you when your package npm dependencies are out of date.",
-                "homepage": "https://david-dm.org",
-                "id": 7739877,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2022-12-10T10:06:02Z",
-                "open_issues": 41,
-                "owner": "alanshaw",
-                "repo": "david",
-                "stars": 966,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:03:06.707Z"
-            },
-            {
-              "node_type": "item",
               "title": "ntl",
               "description": "Interactive CLI menu to list & run npm tasks.",
               "children": [],
@@ -858,6 +837,27 @@
                   "npm",
                   "workflow"
                 ]
+              },
+              "first_seen": "2026-08-29T00:03:06.707Z"
+            },
+            {
+              "node_type": "item",
+              "title": "david",
+              "description": "Check if your package dependencies are out of date.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": " :eyeglasses: Node.js module that tells you when your package npm dependencies are out of date.",
+                "homepage": "https://david-dm.org",
+                "id": 7739877,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2022-12-10T10:06:02Z",
+                "open_issues": 41,
+                "owner": "alanshaw",
+                "repo": "david",
+                "stars": 965,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
             },
@@ -1443,7 +1443,7 @@
             "open_issues": 2055,
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41466,
+            "stars": 41465,
             "topics": [
               "javascript",
               "npm",
@@ -1465,11 +1465,11 @@
             "id": 50565430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-31T17:41:08Z",
-            "open_issues": 204,
+            "last_commit": "2026-11-01T00:38:01Z",
+            "open_issues": 212,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36973,
+            "stars": 36985,
             "topics": [
               "dependency-manager",
               "install",
@@ -1496,7 +1496,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-30T17:22:50Z",
-            "open_issues": 819,
+            "open_issues": 821,
             "owner": "npm",
             "repo": "cli",
             "stars": 10235,
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:25:15.437Z",
+    "last_updated": "2026-11-01T19:50:26.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome npm resources and tips",
@@ -1576,7 +1576,7 @@
       "open_issues": 1,
       "owner": "sindresorhus",
       "repo": "awesome-npm",
-      "stars": 4752,
+      "stars": 4753,
       "topics": [
         "awesome",
         "awesome-list",
