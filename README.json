@@ -40,7 +40,7 @@
             "open_issues": 9,
             "owner": "sindresorhus",
             "repo": "guides",
-            "stars": 2525,
+            "stars": 2524,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
@@ -97,11 +97,11 @@
                 "id": 194513266,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-02T14:02:19Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-03T20:26:39Z",
+                "open_issues": 15,
                 "owner": "voidcosmos",
                 "repo": "npkill",
-                "stars": 9496,
+                "stars": 9498,
                 "topics": [
                   "cli",
                   "command-line",
@@ -173,7 +173,7 @@
                 "open_issues": 410,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24151,
+                "stars": 24152,
                 "topics": [
                   "automation",
                   "changelog",
@@ -207,7 +207,7 @@
                 "open_issues": 4,
                 "owner": "release-it",
                 "repo": "release-it",
-                "stars": 9084,
+                "stars": 9082,
                 "topics": [
                   "automation",
                   "bump",
@@ -345,11 +345,11 @@
                 "id": 56333861,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T22:27:13Z",
-                "open_issues": 17,
+                "last_commit": "2026-11-03T19:21:35Z",
+                "open_issues": 16,
                 "owner": "verdaccio",
                 "repo": "verdaccio",
-                "stars": 17970,
+                "stars": 17972,
                 "topics": [
                   "docker",
                   "helm",
@@ -652,7 +652,7 @@
                 "open_issues": 232,
                 "owner": "dylang",
                 "repo": "npm-check",
-                "stars": 6635,
+                "stars": 6634,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
@@ -706,7 +706,7 @@
                 "open_issues": 48,
                 "owner": "felixrieseberg",
                 "repo": "npm-windows-upgrade",
-                "stars": 2495,
+                "stars": 2494,
                 "topics": [
                   "microsoft",
                   "nodejs",
@@ -873,8 +873,8 @@
                 "id": 189734318,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T07:22:05Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-03T09:39:00Z",
+                "open_issues": 7,
                 "owner": "lirantal",
                 "repo": "lockfile-lint",
                 "stars": 870,
@@ -1443,7 +1443,7 @@
             "open_issues": 2055,
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41464,
+            "stars": 41462,
             "topics": [
               "javascript",
               "npm",
@@ -1465,11 +1465,11 @@
             "id": 50565430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-02T22:46:22Z",
-            "open_issues": 219,
+            "last_commit": "2026-11-03T21:05:30Z",
+            "open_issues": 198,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36997,
+            "stars": 37002,
             "topics": [
               "dependency-manager",
               "install",
@@ -1495,11 +1495,11 @@
             "id": 139910229,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T22:19:51Z",
-            "open_issues": 820,
+            "last_commit": "2026-11-03T20:46:16Z",
+            "open_issues": 825,
             "owner": "npm",
             "repo": "cli",
-            "stars": 10236,
+            "stars": 10237,
             "topics": [
               "javascript",
               "nodejs",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:10:19.593Z",
+    "last_updated": "2026-11-03T21:10:17.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome npm resources and tips",
