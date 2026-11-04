@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "max-mapper",
             "repo": "art-of-node",
-            "stars": 9858,
+            "stars": 9857,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
@@ -173,7 +173,7 @@
                 "open_issues": 410,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24152,
+                "stars": 24153,
                 "topics": [
                   "automation",
                   "changelog",
@@ -204,7 +204,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-30T18:53:15Z",
-                "open_issues": 4,
+                "open_issues": 9,
                 "owner": "release-it",
                 "repo": "release-it",
                 "stars": 9082,
@@ -345,11 +345,11 @@
                 "id": 56333861,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-03T19:21:35Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-04T07:44:46Z",
+                "open_issues": 19,
                 "owner": "verdaccio",
                 "repo": "verdaccio",
-                "stars": 17972,
+                "stars": 17975,
                 "topics": [
                   "docker",
                   "helm",
@@ -385,7 +385,7 @@
                 "open_issues": 33,
                 "owner": "Pana",
                 "repo": "nrm",
-                "stars": 3018,
+                "stars": 3017,
                 "topics": [
                   "npm",
                   "nrm",
@@ -873,8 +873,8 @@
                 "id": 189734318,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T09:39:00Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-04T13:11:35Z",
+                "open_issues": 5,
                 "owner": "lirantal",
                 "repo": "lockfile-lint",
                 "stars": 870,
@@ -1443,7 +1443,7 @@
             "open_issues": 2055,
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41462,
+            "stars": 41460,
             "topics": [
               "javascript",
               "npm",
@@ -1465,11 +1465,11 @@
             "id": 50565430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-03T21:05:30Z",
-            "open_issues": 198,
+            "last_commit": "2026-11-04T21:03:15Z",
+            "open_issues": 202,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 37002,
+            "stars": 37005,
             "topics": [
               "dependency-manager",
               "install",
@@ -1495,11 +1495,11 @@
             "id": 139910229,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T20:46:16Z",
-            "open_issues": 825,
+            "last_commit": "2026-11-04T21:21:10Z",
+            "open_issues": 830,
             "owner": "npm",
             "repo": "cli",
-            "stars": 10237,
+            "stars": 10238,
             "topics": [
               "javascript",
               "nodejs",
@@ -1530,10 +1530,10 @@
             "language": null,
             "license": null,
             "last_commit": "2020-08-07T14:31:21Z",
-            "open_issues": 2163,
+            "open_issues": 2162,
             "owner": "npm",
             "repo": "npm",
-            "stars": 17609,
+            "stars": 17608,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:10:17.352Z",
+    "last_updated": "2026-11-04T21:22:53.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome npm resources and tips",
