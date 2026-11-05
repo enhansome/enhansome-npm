@@ -97,7 +97,7 @@
                 "id": 194513266,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-03T20:26:39Z",
+                "last_commit": "2026-11-05T21:01:40Z",
                 "open_issues": 15,
                 "owner": "voidcosmos",
                 "repo": "npkill",
@@ -173,7 +173,7 @@
                 "open_issues": 410,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24153,
+                "stars": 24156,
                 "topics": [
                   "automation",
                   "changelog",
@@ -204,7 +204,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-30T18:53:15Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "release-it",
                 "repo": "release-it",
                 "stars": 9082,
@@ -349,7 +349,7 @@
                 "open_issues": 19,
                 "owner": "verdaccio",
                 "repo": "verdaccio",
-                "stars": 17975,
+                "stars": 17977,
                 "topics": [
                   "docker",
                   "helm",
@@ -1443,7 +1443,7 @@
             "open_issues": 2055,
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41460,
+            "stars": 41459,
             "topics": [
               "javascript",
               "npm",
@@ -1465,11 +1465,11 @@
             "id": 50565430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-04T21:03:15Z",
-            "open_issues": 202,
+            "last_commit": "2026-11-05T21:29:38Z",
+            "open_issues": 210,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 37005,
+            "stars": 37007,
             "topics": [
               "dependency-manager",
               "install",
@@ -1495,11 +1495,11 @@
             "id": 139910229,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T21:21:10Z",
-            "open_issues": 830,
+            "last_commit": "2026-11-05T18:10:20Z",
+            "open_issues": 840,
             "owner": "npm",
             "repo": "cli",
-            "stars": 10238,
+            "stars": 10241,
             "topics": [
               "javascript",
               "nodejs",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:22:53.257Z",
+    "last_updated": "2026-11-05T21:30:08.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome npm resources and tips",
