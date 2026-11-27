@@ -40,7 +40,7 @@
             "open_issues": 9,
             "owner": "sindresorhus",
             "repo": "guides",
-            "stars": 2523,
+            "stars": 2522,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:06.707Z"
@@ -101,7 +101,7 @@
                 "open_issues": 12,
                 "owner": "voidcosmos",
                 "repo": "npkill",
-                "stars": 9709,
+                "stars": 9723,
                 "topics": [
                   "build-artifacts",
                   "cleaner",
@@ -176,7 +176,7 @@
                 "open_issues": 412,
                 "owner": "semantic-release",
                 "repo": "semantic-release",
-                "stars": 24201,
+                "stars": 24204,
                 "topics": [
                   "automation",
                   "changelog",
@@ -210,7 +210,7 @@
                 "open_issues": 7,
                 "owner": "release-it",
                 "repo": "release-it",
-                "stars": 9085,
+                "stars": 9086,
                 "topics": [
                   "automation",
                   "bump",
@@ -251,7 +251,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "np",
-                "stars": 7713,
+                "stars": 7712,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -348,11 +348,11 @@
                 "id": 56333861,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-25T04:12:28Z",
+                "last_commit": "2026-11-27T22:00:21Z",
                 "open_issues": 29,
                 "owner": "verdaccio",
                 "repo": "verdaccio",
-                "stars": 18016,
+                "stars": 18020,
                 "topics": [
                   "docker",
                   "helm",
@@ -709,7 +709,7 @@
                 "open_issues": 48,
                 "owner": "felixrieseberg",
                 "repo": "npm-windows-upgrade",
-                "stars": 2493,
+                "stars": 2494,
                 "topics": [
                   "microsoft",
                   "nodejs",
@@ -995,7 +995,7 @@
                 "open_issues": 47,
                 "owner": "uber-archive",
                 "repo": "npm-shrinkwrap",
-                "stars": 768,
+                "stars": 767,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "generator-nm",
-                "stars": 734,
+                "stars": 733,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:06.707Z"
@@ -1468,11 +1468,11 @@
             "id": 50565430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-26T23:54:04Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-27T23:33:09Z",
+            "open_issues": 8,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 37165,
+            "stars": 37170,
             "topics": [
               "dependency-manager",
               "install",
@@ -1499,10 +1499,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-23T22:31:31Z",
-            "open_issues": 870,
+            "open_issues": 882,
             "owner": "npm",
             "repo": "cli",
-            "stars": 10280,
+            "stars": 10284,
             "topics": [
               "javascript",
               "nodejs",
@@ -1567,7 +1567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:55:42.878Z",
+    "last_updated": "2026-11-27T23:37:27.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome npm resources and tips",
